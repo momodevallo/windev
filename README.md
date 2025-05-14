@@ -1,1 +1,1 @@
-Encore des erreur de filtres, de cosnultations de seance suivant le type dabonnement, mais ca avance..
+Erreur de cosnultations de seance suivant le type dabonnement, et partie adminen en cours
